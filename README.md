@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wandile
 - 👀 I’m interested in Web Development, Database design, networking and system design
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently employed as an IT Officer
 - 💞️ I’m looking to collaborate on web development and database manangment, networking and learning in any IT development project
 - 📫 Reach me at raulngwenya@gmail.com
 
